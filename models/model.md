@@ -1,0 +1,1 @@
+the model is too big to upload this to github. but it is created with the notebook 'model.ipynb'
